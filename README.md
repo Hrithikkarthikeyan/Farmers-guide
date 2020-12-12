@@ -18,7 +18,7 @@ These steps require a virtual environment. This can be created by entering the f
 4. flask run     
 These steps will start the database required for the project to run properly.	
 
-##To generate pkl file which will not be available in the zip file.		
+##To generate pkl file which will not be available in the zip file.	 	
 ###STEPS:		
 1. Go to cd project/src/components		
 2. Type python crop_prediction.py		
