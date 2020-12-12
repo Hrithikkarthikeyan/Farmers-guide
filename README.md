@@ -11,18 +11,18 @@ Requires pickle, pandas, sklearn, numpy to be installed to run the project witho
 
 
 Steps to compile the files:
-These steps require a virtual environment. This can be created by entering the following commands inside the project folder.
-1)pipenv shell
-2)export FLASK_APP=api
-3)export FLASK_DEBUG=1
-4)flask run
-These steps will start the database required for the project to run properly.
+These steps require a virtual environment. This can be created by entering the following commands inside the project folder.          
+1)pipenv shell          
+2)export FLASK_APP=api          
+3)export FLASK_DEBUG=1  
+4)flask run     
+These steps will start the database required for the project to run properly.	
 
-To generate pkl file which will not be available in the zip file.
-STEPS:
-1)Go to cd project/src/components
-2)Type python crop_prediction.py
-3)Then type crop_crop_prediction.py
+To generate pkl file which will not be available in the zip file.	
+STEPS:	
+1)Go to cd project/src/components	
+2)Type python crop_prediction.py	
+3)Then type crop_crop_prediction.py	
 
 =======
 
